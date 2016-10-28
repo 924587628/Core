@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="selected_view" type="id"/>
+
+    <item type="id" name="id_adapter_group_position" />
+    <item type="id" name="id_adapter_child_position" />
+    <item type="id" name="id_adapter_item_position" />
+    <item type="id" name="id_adapter_item_type_render" />
+    
+    <item type="id" name="gridview" />
+    <item type="id" name="scrollview" />
+    <item type="id" name="webview" />
+    
+    <item type="id" name="news_list_item_type" />
+    <item type="id" name="news_list_item_view_noimg" />
+    <item type="id" name="news_list_item_view_left" />
+    <item type="id" name="news_list_item_view_centerimg" />
+    <item type="id" name="news_list_item_view_h_three" />
+    <item type="id" name="news_list_item_view_h_two" />
+    <item type="id" name="news_list_item_view_sheying_three" />
+    <item type="id" name="news_list_item_view_refresh" />
+    <item type="id" name="news_list_item_view_video" />
+
+</resources>

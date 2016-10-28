@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 数据库存放路径 -->
+    <string name="path">/jujiao/database/</string>
+
+    <!-- 缺省数据库版本 -->
+    <string name="default_db_version">1</string>
+    <!-- 缺省数据库名称 -->
+    <string name="default_db_name">default.db</string>
+    <!-- 缺省数据表对应实例 -->
+    <string-array name="default_db_beans"></string-array>
+
+    <!-- 单表数据库配置 -->
+    <string-array name="single_db_beans">
+        <item>com.example.core.test.ChannelItem</item>
+    </string-array>
+
+    <integer-array name="single_db_version">
+        <item>1</item>
+    </integer-array>
+
+</resources>
